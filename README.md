@@ -20,3 +20,6 @@ conda list-all-envs
 1. Download / Clone repo
 2. Excute `python setup.py`
 3. From now on, you can run `conda list-all-envs`
+
+
+Link for download: https://pypi.python.org/pypi/conda-list-all-envs/0.1
