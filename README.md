@@ -18,5 +18,5 @@ conda list-all-envs
 
 ## How to use:
 1. Download / Clone repo
-2. Excute `Python python setup.py`
-3. From now on, you can run conda list-all-envs
+2. Excute `python setup.py`
+3. From now on, you can run `conda list-all-envs`
